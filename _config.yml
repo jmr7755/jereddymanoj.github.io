@@ -49,7 +49,7 @@ social_media:
 topics:
   - name: Machine Learning
     web_url: https://developers.google.com/machine-learning/crash-course
-    image_url: https://drive.google.com/open?id=1Kr6BJIEX7DYmDBum1uiXUYG1azHMWWAq
+    image_url: https://coursera-course-photos.s3.amazonaws.com/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png?auto=format%2Ccompress&dpr=1
 
   - name: Data science
 
