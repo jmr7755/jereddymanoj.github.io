@@ -43,7 +43,7 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: www.jmr7755.github.io
   # youtube: your_username
 
 topics:
@@ -52,9 +52,11 @@ topics:
     image_url: https://coursera-course-photos.s3.amazonaws.com/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png?auto=format%2Ccompress&dpr=1
 
   - name: Data science
+    web_url: https://datascience.berkeley.edu/about/what-is-data-science/
+    image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpYYt5kGMIEpcavNk4vw_TGqIrIKB5RX3NV99i61zSF3oOBSHV&usqp=CAU
 
   - name: Computer Vision
-    #web_url: https://github.com/topics/sass
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    web_url: https://techcrunch.com/2016/11/13/wtf-is-computer-vision/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/800px-Cool_Kids_of_Death_Off_Festival_p_146-face_selected.jpg/300px-800px-Cool_Kids_of_Death_Off_Festival_p_146-face_selected.jpg
 
 theme: jekyll-theme-hacker
